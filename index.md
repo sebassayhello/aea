@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Bienvenidos a mi pagina
 
-You can use the [editor on GitHub](https://github.com/sebassayhello/aea/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Este es una pequeña biografia sobre mi.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Me llamo sebastian Said Espinoza Aguirre tengo 18 años, naci el 28 de marzo del 2003.
 
-### Markdown
+Estudio la carrera de Sistema de información en la universidad USIL.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Vivo en Lima, Perú.
 
-```markdown
-Syntax highlighted code block
+Me gusta mucho los videojuegos en especial League of Legends y Minecraft, tambien me gusta hacer deporte como la natación y el fútbol (soy medio malo cuando juego)
+veo series cuando tengo tiempo y me gusta viajar dentro y fuera del pais.
 
-# Header 1
-## Header 2
-### Header 3
+![ss](https://user-images.githubusercontent.com/86089080/122501173-d0911300-cfb9-11eb-8c2b-a2c960acf876.gif)
 
-- Bulleted
-- List
+![450_1000](https://user-images.githubusercontent.com/86089080/122564470-fe527800-d00a-11eb-8e7b-a1076ed7e16d.jpeg)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+Paginas de mis compañeros:
 
-[Link](url) and ![Image](src)
-```
+<a href="https://gabrielcorrales.000webhostapp.com/" rel="nofollow noopener noreferrer" target="_blank">Gabriel Corrales</a>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<a href="https://danielquispe1x2.github.io/p-ginaweb/" rel="nofollow noopener noreferrer" target="_blank">Daniel Quispe</a>
 
-### Jekyll Themes
+<a href="http://evirtuales.com/SantiagoDavidGutierrezSoria.html" rel="nofollow noopener noreferrer" target="_blank">Santiago Guitierrez</a>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sebassayhello/aea/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<a href="https://josetellosaaz.github.io/JoseMiguelTelloSaaz/" rel="nofollow noopener noreferrer" target="_blank">Jose Tello</a>
 
-### Support or Contact
+<a href="https://pedroarnaldotorreschahua.me/" rel="nofollow noopener noreferrer" target="_blank">Pedro Torres</a>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
