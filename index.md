@@ -9,6 +9,7 @@ Estudio la carrera de Sistema de información en la universidad USIL.
 Vivo en Lima, Perú.
 
 soy actor nopor desde los 18, carreo mancos que son llorones y que no quieren aceptar que sin mi no son nada, dejo mi pagina de OF estamos de promoción con el 50% de descuento.
+
 <a href="[https://www.youtube.com/watch?v=xvFZjo5PgG0/]" rel="nofollow noopener noreferrer" target="_blank">Mi pagina de OF</a>
 
 
